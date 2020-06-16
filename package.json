@@ -1,6 +1,6 @@
 {
   "name": "@maman/card",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Personal npm card for Achmad Mahardi (@maman)",
   "main": "dist/card.js",
   "unpkg": "index.html",
